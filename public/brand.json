@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Lenovo",
+      "image": "https://i.ibb.co/gdFt9nw/Lenovo.jpg",
+      "short_description": "High-quality Lanevo product with advanced features for tech enthusiasts.",
+      "button": "Add to Cart"
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "image": "https://i.ibb.co/d6CPZpv/apple-logos-id-QGxx-ARFI.jpg",
+      "short_description": "Sleek Apple design and durable construction for style and durability.",
+      "button": "Buy Now"
+    },
+    {
+      "id": 3,
+      "name": "Hp",
+      "image": "https://i.ibb.co/pX9NfBN/hp-logos-id21vk-QUc-Y.jpg",
+      "short_description": "Affordable and stylish HP option for every need in computing.",
+      "button": "View Details"
+    },
+    {
+      "id": 4,
+      "name": "Dell",
+      "image": "https://i.ibb.co/RhpvC58/dell-logos-id7g6-KQVUp.png",
+      "short_description": "Cutting-edge Dell technology for a modern lifestyle with innovation.",
+      "button": "Add to Wishlist"
+    },
+    {
+      "id": 5,
+      "name": "Asus",
+      "image": "https://i.ibb.co/BGBq2Ps/asus-logos-id-C0a-4n-D.png",
+      "short_description": "Luxurious Asus item with a touch of elegance for enthusiasts.",
+      "button": "Buy with Confidence"
+    },
+    {
+      "id": 6,
+      "name": "Acer",
+      "image": "https://i.ibb.co/p1YZdPL/acer-logos-id-TA-O-8e-C.jpg",
+      "short_description": "Premium quality Acer for  customers seeking reliability and performance.",
+      "button": "Customize and Buy"
+    }
+  ]
+  
