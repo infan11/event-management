@@ -2,7 +2,8 @@
 
 const Footer = () => {
     return (
-        <div>
+        <div data-aos="fade-up"
+        data-aos-anchor-placement="top-bottom">
             <footer className="footer mt-9 p-10 bg-base-200 text-base-content">
   <nav>
     <header className="footer-title">Services</header> 

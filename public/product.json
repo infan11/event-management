@@ -1,0 +1,207 @@
+[
+    {
+      "id": 1,
+      "name": "Gaming Beast",
+      "image": "https://i.ibb.co/M7svxPR/images.jpg",
+      "short_description": "Powerful gaming rig for the ultimate gaming experience.",
+      "button": "Customize and Buy",
+      "price": 400
+    },
+    {
+      "id": 2,
+      "name": "Swift Pro",
+      "image": "https://i.ibb.co/4ZfJLrV/download.jpg",
+      "short_description": "Portable and sleek laptop for productivity on the go.",
+      "button": "Add to Cart",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "phone_name": "Samsung Galaxy A21",
+      "image": "https://i.ibb.co/dt966GP/Samsung-Galaxy-A21.png",
+      "price": 249.99,
+      "short_description": "Stylish and affordable with impressive features.",
+      "button": "Buy Now"
+    },
+    {
+      "id": 5,
+      "name": "SunGuard Elite",
+      "image": "https://i.ibb.co/8mwPbpZ/istockphoto-1160657493-612x612.jpg",
+      "short_description": "Stylish sunglasses offering UV protection and fashion.",
+      "button": "Add to Wishlist",
+      "price": 500
+    },
+  
+    {
+      "id": 7,
+      "name": "Oppo F9 Pro",
+      "image": "https://i.ibb.co/qFmtV5s/f9-purple-600x600.png",
+      "price": 299.99,
+      "short_description": "Elegant design, high-resolution camera, and fast charging.",
+      "button": "Buy Now"
+    },
+    {
+      "id": 8,
+      "phone_name": "Xiaomi Mi 10",
+      "image": "https://i.ibb.co/c3qs7VC/download.jpg",
+      "price": 699.99,
+      "short_description": "Flagship-level performance and stunning camera capabilities.",
+      "button": "Buy Now"
+    },
+    {
+      "id": 9,
+      "phone_name": "iPhone 12 Pro",
+      "image": "https://i.ibb.co/JQ31BTL/3-800x800.jpg",
+      "price": 1099.99,
+      "short_description": "Exceptional performance and photography experience.",
+      "button": "Buy Now"
+    },
+    {
+      "id": 10,
+      "name": "ThinkPad X1 Carbon",
+      "image": "https://i.ibb.co/V9gZr5Z/download-1.jpg",
+      "short_description": "Premium business laptop with robust performance.",
+      "button": "Add to Wishlist",
+      "price": 500
+    },
+    {
+      "id": 11,
+      "name": "MacBook Air",
+      "image": "https://i.ibb.co/58Nz4YG/download-2.jpg",
+      "short_description": "Thin and light MacBook for creativity and productivity.",
+      "button": "Buy with Confidence",
+      "price": 500
+    },
+    {
+      "id": 12,
+      "name": "HP Spectre x360",
+      "image": "https://i.ibb.co/1KtfcYG/download-3.jpg",
+      "short_description": "Versatile HP laptop with a 360-degree hinge for flexibility.",
+      "button": "Customize and Buy",
+      "price": 50000
+    },
+    {
+      "id": 14,
+      "name": "Velocity Pro Gaming Rig",
+      "image": "https://i.ibb.co/BKqVkGn/download-4.jpg",
+      "short_description": "Specially designed gaming rig for unparalleled speed and graphics.",
+      "button": "Buy Now",
+      "price": 500
+    },
+    {
+      "id": 15,
+      "name": "Velocity Pro Gaming Rig",
+      "image": "https://i.ibb.co/BKqVkGn/download-4.jpg",
+      "short_description": "Specially designed gaming rig for unparalleled speed and graphics.",
+      "button": "Buy Now",
+      "price": 500
+    },
+   
+    {
+      "id": 16,
+      "name": "Dell XPS 13",
+      "image": "https://i.ibb.co/bJ5mKTq/download-5.jpg",
+      "short_description": "Ultra-portable Dell laptop with stunning InfinityEdge display.",
+      "button": "Buy with Confidence",
+      "price": 30099
+    },
+    {
+      "id": 17,
+      "name": "ASUS ROG Zephyrus",
+      "image": "https://i.ibb.co/rQ4HrMm/download-6.jpg",
+      "short_description": "Immersive gaming experience with the ASUS ROG Zephyrus.",
+      "button": "Customize and Buy",
+      "price": 500
+    },
+    {
+      "id": 18,
+      "name": "Acer Predator Helios",
+      "image": "https://i.ibb.co/gyCBfLj/images-1.jpg",
+      "short_description": "Unleash the power of gaming with Acer Predator Helios.",
+      "button": "Add to Cart",
+      "price": 500
+    },
+    {
+      "id": 19,
+      "phone_name": "Motorola Moto G Power",
+      "image": "https://i.ibb.co/xHwBt22/download-2.jpg",
+      "price": 249.99,
+      "short_description": "Long-lasting battery life with a durable design.",
+      "button": "Buy Now"
+    },
+    {
+      "id": 20,
+      "name": "Google Pixel 6",
+      "image" : "https://i.ibb.co/qsJwYNY/download-7.jpg",
+      "short_description": "Capture the perfect shot with the Google Pixel 6 camera.",
+      "button": "View Details",
+      "price": 500
+    },
+    {
+      "id": 21,
+      "phone_name": "Samsung Galaxy Note 20",
+      "image": "https://i.ibb.co/dj5x9Ry/samsung-galaxy-note20-ultra-1.jpg",
+      "price": 899.99,
+      "short_description":"Timeless elegance meets modern functionality.",
+      "button": "Buy with Confidence"
+      
+    },
+      {
+        "id": 22,
+        "name": "ElegantTime Luxury Watch",
+        "image": "https://i.ibb.co/txMwrLB/download-8.jpg",
+        "short_description": "Timeless elegance meets modern functionality.",
+        "button": "Buy with Confidence",
+        "price": 500
+      },
+      {
+        "id": 23,
+        "name": "RetroStyle Vintage Sunglasses",
+        "image": "https://i.ibb.co/DC2Zw7c/623056048-max.jpg",
+        "short_description": "Rock the classic look with RetroStyle sunglasses.",
+        "button": "Customize and Buy",
+        "price": 500
+      },
+      {
+        "id": 24,
+        "name": "SportShield Performance Sunglasses",
+        "image": "https://i.ibb.co/591PLkt/2021-scott-sport-sheild-super-sonic-edt-sunglasses.jpg",
+        "short_description": "Protect your eyes with style during outdoor activities.",
+        "button": "Add to Cart",
+        "price": 50056
+      },
+      {
+        "id": 25,
+        "name": "PowerPod Ultimate Charging Kit",
+        "image": "https://i.ibb.co/hXT81X1/download-9.jpg",
+        "short_description": "All-in-one solution for charging your devices on the go.",
+        "button": "Buy Now",
+        "price": 500
+      },
+      {
+        "id": 26,
+        "name": "SoundWave Wireless Earbuds",
+        "image": "https://i.ibb.co/dBP21gY/download-10.jpg",
+        "short_description": "Immerse yourself in high-quality audio with SoundWave.",
+        "button": "View Details",
+        "price": 5000
+      },
+      {
+        "id": 27,
+        "name": "RGB Fusion Gaming Mouse",
+        "image": "https://i.ibb.co/RvTYZWf/download-11.jpg",
+        "short_description": "Customizable RGB lighting for the ultimate gaming setup.",
+        "button": "Add to Wishlist",
+        "price": 5004
+      },
+      {
+        "id": 28,
+        "name": "ProType Mechanical Gaming Keyboard",
+        "image": "https://i.ibb.co/mc8Y84g/61-Ge-FTMa-NXL-AC-UF1000-1000-QL80.jpg",
+        "short_description": "Elevate your gaming experience with responsive mechanical keys.",
+        "button": "Buy with Confidence",
+        "price": 5005
+      }
+  ]
+  
+    

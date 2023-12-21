@@ -1,13 +1,14 @@
 import { useContext } from "react";
 import { AuthContext } from "../provider/AuthProvider";
 import { Navigate } from "react-router-dom";
+import { FadeLoader } from "react-spinners";
 
 
 const PrivateRoute = ({children}) => {
 const {user , loading } = useContext(AuthContext);
 
 if(loading){
-    return <span className="min-h-screen loading loading-dots loading-lg"></span>
+    return <FadeLoader color="#36d7b7" />
 }
 if(user){
     return children

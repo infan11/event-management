@@ -79,7 +79,8 @@ const handleGithubSignIn = () =>{
 }
  
     return (
-        <div>
+        <div  data-aos="fade-right"
+        >
 
 
            <div className="hero min-h-screen ">

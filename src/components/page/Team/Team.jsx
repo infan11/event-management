@@ -6,46 +6,46 @@ const Team = () => {
     return (
         <div>
             <div data-aos="zoom-in">
-                <h2 className="text-center mt-10 text-4xl  font-bold  font-mono animate-bounce duration-150 bg-amber-700 text-white w-96 p-4 mx-auto">Team Member</h2>
+                <h2 className="text-center mt-10 text-3xl mb-5  font-bold  font-mono animate-bounce duration-150 bg-amber-700 text-white w-60   p-4 mx-auto">Team Member</h2>
             </div>
          <div className='grid md:grid-cols-3 gap-8' data-aos="zoom-in">
          <div>
-         <div className=" w-96  shadow-xl">
+         <div className=" w-60 mx-auto   shadow-xl">
   <figure className="">
-    <img src={imageA} alt="men" className="relative" />
+    <img src={imageA} alt="men" className="relative rounded-lg " />
   </figure>
 
 </div>
          
-         <div className="   ml-3">
-    <h2 className="text-2xl font-bold font-mono text-purple-500">Atawor Rahman</h2>
-    <p className='text-2xl font-bold font-mono text-purple-500'>Owner</p>
+         <div  className="   ml-3">
+    <h2 className="text-2xl  ml-11 font-bold font-mono text-white">Atawor Rahman</h2>
+    <p className='text-2xl   ml-11 font-bold font-mono text-white'>Owner</p>
   </div>
         </div> 
         <div>
-         <div className=" w-96  shadow-xl">
+         <div className=" w-60 mx-auto   shadow-xl">
   <figure className="">
-    <img src={imageB} alt="men" className="relative" />
+    <img src={imageB} alt="men" className="relative rounded-lg" />
   </figure>
 
 </div>
          
-         <div className="  ml-3">
-    <h2 className="text-2xl font-bold font-mono text-purple-500">Pervez Rahman</h2>
-    <p className='text-2xl font-bold font-mono text-purple-500'>Employer</p>
+         <div  className="  ml-3">
+    <h2 className="text-2xl  ml-11 font-bold font-mono text-white">Pervez Rahman</h2>
+    <p className='text-2xl  ml-11 font-bold font-mono text-white'>Employer</p>
   </div>
         </div> 
         <div>
-         <div className=" w-96  shadow-xl">
+         <div className=" w-60 mx-auto   shadow-xl">
   <figure className="">
-    <img src={imageC} alt="men" className="relative" />
+    <img src={imageC} alt="men" className="relative rounded-lg" />
   </figure>
 
 </div>
          
-         <div className="  ml-3">
-    <h2 className="text-2xl font-bold font-mono text-purple-500">Mosharof Kondoker</h2>
-    <p className='text-2xl font-bold font-mono text-purple-500'>Employer</p>
+         <div  className="  ml-3">
+    <h2 className="text-2xl  ml-11 font-bold font-mono text-white">Mosharof Kondoker</h2>
+    <p className='text-2xl  ml-11 font-bold font-mono text-white'>Employer</p>
   </div>
         </div> 
          </div>

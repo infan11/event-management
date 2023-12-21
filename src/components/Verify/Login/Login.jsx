@@ -75,7 +75,7 @@ githubSignIn()
 }
 
     return (
-        <div>
+        <div data-aos="zoom-in-down">
             
            <div className='flex '>
 
