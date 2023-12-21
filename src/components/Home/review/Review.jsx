@@ -6,9 +6,9 @@ const Review = () => {
     return (
         <div>
             <div data-aos="fade-left">
-                <h2 className="text-center bg-purple-600 text-white p-3 w-96 mx-auto text-2xl font-bold font-mono mt-5">Customer Review</h2>
+                <h2 className="text-center bg-purple-600 text-white p-3 w-80 mx-auto text-xl font-bold font-mono mt-5">Customer Review</h2>
             </div>
-            <div className="grid md:grid-cols-3 ml-20 mt-6 gap-2 ">
+            <div className="grid md:grid-cols-3 ml-16 mt-6 gap-2 ">
 
                 <div data-aos="fade-right" className=" w-64  shadow-xl">
                     <figure className="px-2 pt-2">
