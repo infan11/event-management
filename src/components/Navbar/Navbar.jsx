@@ -73,7 +73,7 @@ const Navbar = () => {
               <li>
                 <a className="justify-between">
                
-                  <p className='font-bold text-white'>{user?.displayName}</p>
+                  <p className='font-bold text-black'>{user?.displayName}</p>
                 </a>
               </li>
               <li><a>Settings</a></li>
