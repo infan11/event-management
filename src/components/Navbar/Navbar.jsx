@@ -53,7 +53,7 @@ const Navbar = () => {
        {navLinks}
       </ul>
     </div>
-         <p className="flex items-center gap-3 font-mono text-3xl font-bold text-orange-500 "> StarTech</p>
+         <p className="flex items-center gap-3 font-mono text-3xl font-bold text-orange-500 "> <Link to={"/"}>StarTech</Link></p>
         </div>
         <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 text-red-600 font-bold text-xl">

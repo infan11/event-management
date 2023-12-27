@@ -1,14 +1,17 @@
-import { Outlet } from "react-router-dom";
-import Navbar from "../Navbar/Navbar";
-import Footer from "../footer/Footer";
+import { Outlet, useLocation } from "react-router-dom";
+import Navbar from "./../Navbar/Navbar"
+import Footer from '..//footer/Footer'
+
 
 
 const Root = () => {
+    const location = useLocation();
+    const noNavbarFooter = location.pathname.includes("/login") || location.pathname.includes("/register")
     return (
-        <div>
-            <Navbar ></Navbar>
-            <Outlet></Outlet>
-            <Footer></Footer>
+        <div className="max-w-6xl mx-auto"> 
+         { noNavbarFooter ||  <Navbar></Navbar>}
+         <Outlet></Outlet>
+        {noNavbarFooter || <Footer></Footer>}
         </div>
     );
 };
