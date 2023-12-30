@@ -80,11 +80,9 @@ githubSignIn()
            <div className='flex '>
 
             
-           <div className="hero  ">
+           <div className="hero min-h-screen ">
   <div className="hero-content flex-col  w-2/3">
-    <div className="text-center lg:text-left">
-      <h1 className="text-5xl font-bold">Login  now</h1>
-    </div>
+  
     <div className="card shrink-0 w-full max-w-sm shadow-2xl  bg-gradient-to-r from-indigo-500 to-purple-700 ">
       <form onSubmit={handleSubmit}  className="card-body">
 
