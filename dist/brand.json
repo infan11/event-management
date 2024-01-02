@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "PC Build",
+      "image": "https://i.ibb.co/h9xvYSZ/front-view-man-repairing-computer.jpg",
+      "short_description": "Innovation drives our custom PC builds, ensuring peak performance and reliability.",
+      "button": "Add to Cart"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "image": "https://i.ibb.co/hMmMpYt/closeup-shot-open-laptop-dark-surface-work-from-home-concept.jpg",
+      "short_description": "Sleek Apple design and durable construction for style seamless performance.",
+      "button": "Buy Now"
+    },
+    {
+      "id": 3,
+      "name": "Phone",
+      "image": "https://i.ibb.co/6yLbsVJ/smartphone-with-blank-black-screen-innovative-future-technology.jpg",
+      "short_description": 
+      "Cutting-edge phones with sleek design, powerful features, and seamless performance.",
+      "button": "View Details"
+    },
+    {
+      "id": 4,
+      "name": "Phone Accessories",
+      "image": "https://i.ibb.co/QPPbQQ3/phone-accessories.jpg",
+      "short_description": "Explore trendy phone accessories for style, protection, and enhanced functionality.",
+      "button": "Add to Wishlist"
+    },
+    {
+      "id": 5,
+      "name": "Pc  Accessories ",
+      "image": "https://i.ibb.co/t2g1MKX/1079679-ONGPJ60.jpg",
+      "short_description": 
+      "Explore our range of high-quality PC accessories for ultimate productivity.",
+      "button": "Buy with Confidence"
+    },
+    {
+      "id": 6,
+      "name": "Sunglasses",
+      "image": "https://i.ibb.co/GtdvJ4k/sunglasses.jpg",
+      "short_description":  "Sunglasses shield eyes, embodying style, and safeguarding vision with flair.",
+      "button": "Customize and Buy"
+    }
+  ]
+  
