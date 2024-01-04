@@ -30,7 +30,7 @@ const Reviews = () => {
                        
                     </div>
                 </div>
-                <div data-aos="fade-left" className=" w-64  shadow-xl">
+                <div data-aos="fade-down" className=" w-64  shadow-xl">
                     <figure className="px-2 pt-2">
                         <img src={imageC} alt="men" className="rounded-md" />
                     </figure>

@@ -40,7 +40,7 @@ const Navbar = () => {
     
   </>
     return (
-        <div data-aos="zoom-in-down" className="navbar   fixed z-20 md:max-w-6xl  bg-opacity-25">
+        <div data-aos="zoom-in-down" className="navbar    max-w-6xl  ">
        
 
 
