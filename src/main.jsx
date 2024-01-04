@@ -14,8 +14,9 @@ import Products from './components/alllServiceCategory/AllProduct/products';
 import ProductCategory from './components/alllServiceCategory/AllProduct/ProductCategory';
 import ProductCard from './components/alllServiceCategory/AllProduct/ProductCard';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
-import Review from './components/Home/review/review';
 import ErrorPage from './components/ErrorElement/ErrorPage';
+import Reviews from './components/Home/review/Reviews';
+
 
 
 const router = createBrowserRouter([
@@ -53,7 +54,7 @@ const router = createBrowserRouter([
       },
       {
         path:"/review",
-        element: <Review></Review>
+        element: <Reviews></Reviews>
       }
       
     ]

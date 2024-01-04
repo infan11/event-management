@@ -2,7 +2,7 @@ import imageA from "../../../assets/pc  build/portrait-young-handsome-man-jean-s
 import imageB from "../../../assets/pc  build/portrait-smiling-young-man-his-dog-park.jpg"
 import imageC from "../../../assets/pc  build/young-bearded-man-with-striped-shirt.jpg"
 import { FcRating } from "react-icons/fc"
-const Review = () => {
+const Reviews = () => {
     return (
         <div>
             <div data-aos="fade-left">
@@ -45,4 +45,4 @@ const Review = () => {
     );
 };
 
-export default Review;
+export default Reviews;
